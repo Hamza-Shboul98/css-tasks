@@ -13,3 +13,7 @@ CSS exercises for my EHS internship, including a styled profile page, a responsi
 ### Narrow screen
 
 ![Service cards stacked vertically](screenshots/landing-page-narrow.png)
+
+## Task 3 — Styled Contact Form
+
+![Contact form with labeled fields and a Submit button](screenshots/contact-form.png)

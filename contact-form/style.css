@@ -1,0 +1,32 @@
+form label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+form input,
+form textarea {
+    display: block;
+    width: 100%;
+    max-width: 480px;
+    box-sizing: border-box;
+    padding: 10px 12px;
+    margin-bottom: 16px;
+    border: 1px solid #165A57;
+    border-radius: 6px;
+    font: inherit;
+}
+
+form button[type="submit"] {
+    background-color: #165A57;
+    color: white;
+    padding: 10px 24px;
+    border: none;
+    border-radius: 6px;
+    font: inherit;
+    cursor: pointer;
+}
+
+form button[type="submit"]:hover {
+    background-color: #0D403E;
+}
