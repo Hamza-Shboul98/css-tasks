@@ -3,3 +3,13 @@ CSS exercises for my EHS internship, including a styled profile page, a responsi
 ## Task 1 — Styled Profile Page
 
 ![Screenshot of the styled personal profile page](screenshots/profile.png)
+
+## Task 2 — Responsive Landing Page
+
+### Wide screen
+
+![Three service cards in one row](screenshots/landing-page-wide.png)
+
+### Narrow screen
+
+![Service cards stacked vertically](screenshots/landing-page-narrow.png)
